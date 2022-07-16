@@ -1,0 +1,58 @@
+{
+    "id": "mensajes",
+    "mensajes": [
+      {
+        "_id": "62cc1126cb475a21a4fd5a6e",
+        "author": {
+          "email": "juanisabba@hotmail.com",
+          "nombre": "Juani",
+          "apellido": "Sabbatini",
+          "edad": "22",
+          "alias": "juanisabba",
+          "avatar": "no"
+        },
+        "text": "Hola",
+        "time": "11/7/2022, 09:01:42"
+      },
+      {
+        "_id": "62cc112ecb475a21a4fd5a70",
+        "author": {
+          "email": "juanisabba@hotmail.com",
+          "nombre": "Juani",
+          "apellido": "Sabbatini",
+          "edad": "22",
+          "alias": "juanisabba",
+          "avatar": "no"
+        },
+        "text": "testing",
+        "time": "11/7/2022, 09:01:50"
+      },
+      {
+        "_id": "62cc117eeec032884c1d24ff",
+        "author": {
+          "email": "user3@hotmail.com",
+          "nombre": "user3",
+          "apellido": "3",
+          "edad": "1",
+          "alias": "Tamunu",
+          "avatar": "no"
+        },
+        "text": "hola",
+        "time": "11/7/2022, 09:03:10"
+      },
+      {
+        "_id": "62cc1185eec032884c1d2501",
+        "author": {
+          "email": "user3@hotmail.com",
+          "nombre": "user3",
+          "apellido": "3",
+          "edad": "1",
+          "alias": "Tamunu",
+          "avatar": "no"
+        },
+        "text": "chau",
+        "time": "11/7/2022, 09:03:17"
+      }
+    ]
+  }
+  
